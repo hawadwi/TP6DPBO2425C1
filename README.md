@@ -1,6 +1,6 @@
 # TP6DPBO2425C1
 
-Saya Hawa Dwiafina Azahra dengan NIM 2400336 mengerjakan Tugas Praktikum 5 dalam mata kuliah Desain dan Pemrograman Berorientasi Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
+Saya Hawa Dwiafina Azahra dengan NIM 2400336 mengerjakan Tugas Praktikum 6 dalam mata kuliah Desain dan Pemrograman Berorientasi Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
 
 ## DESAIN PROGRAM
 
@@ -82,7 +82,7 @@ Kelas ini memanfaatkan `paintComponent()` yang dipanggil secara otomatis oleh re
 
 ### 5. Class FlappyBirdForm
 
-FlappyBirdForm adalah jendela utama yang menampilkan menu start/exit sebelum permainan dimulai:
+FlappyBirdForm adalah menampilkan menu start/exit sebelum permainan dimulai:
 
 **Komponen GUI:**
 - `label` - Label "PRESS TO START" di bagian atas
