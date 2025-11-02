@@ -256,11 +256,11 @@ Jika menggunakan FlappyBirdForm, proses serupa tapi dengan menu awal:
 
 ## DOKUMENTASI
 
-###START & RESTART
+### START & RESTART
 
 ![dokumentasi](dokumentasi/START&RESTART.gif)
 
-###EXIT
+### EXIT
 
 ![dokumentasi](dokumentasi/EXIT.gif)
 
