@@ -150,8 +150,6 @@ Jika menggunakan FlappyBirdForm, proses serupa tapi dengan menu awal:
 
 ### Game Loop (Game Sedang Berlangsung)
 
-**Frequency:** 60 FPS (setiap 1000/60 = ~16.67 ms)
-
 **gameLoop.actionPerformed():**
 1. Panggil `move()` untuk update game state
 2. Panggil `view.repaint()` untuk redraw semua elemen
