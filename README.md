@@ -190,7 +190,7 @@ Jika menggunakan FlappyBirdForm, proses serupa tapi dengan menu awal:
 **pipesCooldown.actionPerformed():**
 1. Generate `randomPosY` untuk upper pipe dengan variasi random
    - Upper pipe Y position: `randomPosY = pipeStartPosY - pipeHeight/4 - Math.random() * (pipeHeight/2)`
-2. Set opening space antar pipa: `openingSpace = frameWidth/2` (180 pixel)
+2. Set opening space antar pipa: `openingSpace = frameWidth/2` 
 3. Buat upper pipe baru: `new Pipe(pipeStartPosX, randomPosY, ...)`
 4. Tambahkan ke ArrayList
 5. Buat lower pipe baru: `new Pipe(pipeStartPosX, randomPosY + openingSpace + pipeHeight, ...)`
